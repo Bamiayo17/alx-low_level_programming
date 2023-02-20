@@ -4,7 +4,7 @@
 /**
   * main = returns all single digit numbers of base 10 starting 0
   *
-  * Returns: Always 0 (Success)
+  * Returns: Always 0 (SUCCESS)
   */
 int main(void)
 {
