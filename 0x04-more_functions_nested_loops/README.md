@@ -6,4 +6,5 @@ Filename | Description|
 1-isdigit.c | Checks for a digit (0 through 9)|
 2-mul.c | Multiplies two integers|
 3-print_numbers.c | Checks for a digit (0 through 9), followed by a new line 
-4-print_most_numbers.c | Checks for a digit (0 through 9 excluding 2 and 9), followed by a new line|
+4-print_most_numbers.c | Checks for a digit (0 through 9 excluding 2 and 9), followed by a new line
+5-more_numbers.c | Prints 10 times the number, from 0 to 14, followed by a new line|
